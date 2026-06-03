@@ -21,3 +21,4 @@ export function middleware(req: NextRequest) {
 export const config = {
   matcher: ['/dashboard/:path*'],
 };
+//https://chatgpt.com/share/6a203982-f570-838d-9200-d9a209a38000
